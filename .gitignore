@@ -416,3 +416,13 @@ FodyWeavers.xsd
 *.msix
 *.msm
 *.msp
+
+
+01_support_files/
+/01_support_files
+.csv
+.env
+.venv
+env/
+venv/
+.DS_Store
